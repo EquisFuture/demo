@@ -1,4 +1,5 @@
-[
+{
+  "usuarios":[
   {
     "foto": "http://source.unsplash.com/random/250x250",
     "nombre": "Oscar O Castro",
@@ -35,3 +36,4 @@
     "email": "harim@mail.com"
   }
 ]
+}
