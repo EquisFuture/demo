@@ -1,6 +1,5 @@
 {
-  "usuarios":[
-  {
+  "usuarios":[{
     "foto": "http://source.unsplash.com/random/250x250",
     "nombre": "Oscar O Castro",
     "telefono": "213123",
@@ -35,5 +34,4 @@
     "direccion": "san isidro sn",
     "email": "harim@mail.com"
   }
-]
-}
+]}
