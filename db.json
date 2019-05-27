@@ -1,0 +1,49 @@
+{
+  "perfiles":[
+  {
+    "id": 1,
+    "nombre": "Oscar O Castro",
+    "usuario": "equisfuture",
+    "telefono": "213123",
+    "direccion": "periferico, sn ",
+    "email": "equis@mail.com",
+    "foto": "http://source.unsplash.com/random/250x250"
+  },
+  {
+    "id": 2,
+    "nombre": "Maria Garcia",
+    "usuario": "juanis",
+    "telefono": "6519819",
+    "direccion": "juan agustin de espinoza",
+    "email": "juanis@mail.com",
+    "foto": "http://source.unsplash.com/random/250x250"
+  },
+  {
+    "id": 3,
+    "nombre": "Raúl Perez Saldivar",
+    "usuario": "Raulsito",
+    "telefono": "2302131684",
+    "direccion": "san isidro sn",
+    "email": "raul@mail.com",
+    "foto": "http://source.unsplash.com/random/250x250"
+  },
+  {
+    "id": 4,
+    "nombre": "Luis Aguirre",
+    "usuario": "huatec",
+    "telefono": "8978978",
+    "direccion": "san felipe",
+    "email": "luis@mail.com",
+    "foto": "http://source.unsplash.com/random/250x250"
+  },
+  {
+    "id": 5,
+    "nombre": "Harim",
+    "usuario": "jorgeh",
+    "telefono": "45465464",
+    "direccion": "san isidro sn",
+    "email": "harim@mail.com",
+    "foto": "http://source.unsplash.com/random/250x250"
+  }
+  ]
+}
