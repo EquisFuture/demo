@@ -1,7 +1,7 @@
 {
   "usuarios":[{
     "id": 1,
-    "foto": "http://source.unsplash.com/random/250x250",
+    "foto": "http://source.unsplash.com/random/50x50",
     "nombre": "Oscar O Castro",
     "telefono": "213123",
     "direccion": "periferico, sn ",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "foto": "http://source.unsplash.com/random/250x250",
+    "foto": "http://source.unsplash.com/random/50x50",
     "nombre": "Maria Garcia",
     "telefono": "6519819",
     "direccion": "juan agustin de espinoza",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "foto": "http://source.unsplash.com/random/250x250",
+    "foto": "http://source.unsplash.com/random/50x50",
     "nombre": "Raúl Perez Saldivar",
     "telefono": "2302131684",
     "direccion": "san isidro sn",
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "foto": "http://source.unsplash.com/random/250x250",
+    "foto": "http://source.unsplash.com/random/50x50",
     "nombre": "Luis Aguirre",
     "telefono": "8978978",
     "direccion": "san felipe",
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "foto": "http://source.unsplash.com/random/250x250",
+    "foto": "http://source.unsplash.com/random/50x50",
     "nombre": "Harim",
     "telefono": "45465464",
     "direccion": "san isidro sn",
